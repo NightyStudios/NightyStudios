@@ -1,12 +1,14 @@
 <h2 align="center">Hi! I am Nighty Studios! Welcome to my profile! I am always open to collaboration, so please feel free to contact me!</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NightyStudios&show_icons=true&theme=gruvbox" height="150"  />
-</div>
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NightyStudios&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NightyStudios&show_icons=true&theme=gruvbox" height="150"  />
+</div>
+
+
 
 ###
 
