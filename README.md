@@ -1,6 +1,6 @@
 <h2 align="center">Hi! I am Nighty Studios! Welcome to my profile! I am always open to collaboration, so please feel free to contact me!</h2>
 <div align="center">
-  ![A bit of stats...](https://github-readme-stats.vercel.app/api?username=NightyStudios&show_icons=true&theme=gruvbox)
+  <img src="https://github-readme-stats.vercel.app/api?username=NightyStudios&show_icons=true&theme=gruvbox" height="150"  />
 </div>
 ###
 
